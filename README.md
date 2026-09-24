@@ -16,6 +16,15 @@ Test développeur web react
 - **Prévue :** 24/09/26 - 12h00
 - **Réelle :** 24/09/26 - 12:30
 
+## Instruction pour lancer les test
+```bash
+#installer Jest 
+npm install
+
+#lancer le test
+npm test
+```
+
 ## Remarques : 
 - Les tests dans la partie 2 ont été générés par une intelligence artificielle. Je ne maitrise pas encore le test unitaire de code React et j'ai utilisé l'IA pour ne pas perdre de temps. Après analyse du code généré, je pense pouvoir monter en compétence sur le test unitaire de code React en quelques semaines
 - La partie 3 a été traité hors chronomètre.
